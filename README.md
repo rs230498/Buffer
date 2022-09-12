@@ -21,7 +21,7 @@ https://bufferr.netlify.app/
 Buffer is a application of managing all the social meadia account at one place with some additional features. It is a collaborative project built by a team of 4 and executed in 5 days.
 </p>
 <p align="center">
-<img src="./public/home.png" />
+<img src="./src/Robin_img/home.png" />
 <p>
 
 <h2> Screens </h2>
@@ -50,14 +50,12 @@ Buffer is a application of managing all the social meadia account at one place w
 <h2>Glimpses of Buffer</h2>
 
 <p align="center">
-<img src="./public/home.png"  width=400 />
-<img src="./public/login.png"  width=400 />
-<img src="./public/calender.png" width=400 /> 
-<img src="./public/channel.png" width=400  />
-<img src="./public/addchannel.png"  width=400 />
-<img src="./public/engagement.png" width=400  />
-<img src="./public/graph.png" width=400  />
-<img src="./public/about.png"  width=400/>
+<img src="./src/Robin_img/1log.png"  width=400 />
+<img src="./src/Robin_img/2.png"  width=400 />
+<img src="./src/Robin_img/3.png" width=400 /> 
+<img src="./src/Robin_img/4.png" width=400  />
+<img src="./src/Robin_img/5.png"  width=400 />
+<img src="./src/Robin_img/6.png" width=400  />
 
 
 </p>
